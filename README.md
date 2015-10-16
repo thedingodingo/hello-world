@@ -1,5 +1,5 @@
 # hello-world
-First gitbhub repo
+First github repo
 
 Test commit, first commit, hello commit, world commit
 
